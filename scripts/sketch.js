@@ -1,4 +1,5 @@
-import { Ball, Paddle } from "./classes.js";
+import { Ball } from "./ball.js";
+import { Paddle } from "./paddle.js";
 
 let ball;
 let paddle1;
